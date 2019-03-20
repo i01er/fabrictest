@@ -8,10 +8,10 @@ Read Me
 - Next to install chaincode the [EVM Chaincode](https://github.com/hyperledger/fabric-chaincode-evm/blob/master/examples/EVM_Smart_Contracts.md)
 - Follow the instruction to install Fab Proxy
 - Connect proxy with web3
+- done
 
-done
-------
 
+---
 There should have the following files:
 - $HOME/go/src/github.com/hyperledger/fabric-chaincode-evm/
 - $HOME/go/src/github.com/hyperledger/fabric-samples/
